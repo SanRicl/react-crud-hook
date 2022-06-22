@@ -10,6 +10,7 @@ Não satisfeito, criei o mesmo app, mas utilizando o contextAPI e o reducer, par
 
 
 segue o link do repo do projeto com contextAPI:
+https://github.com/SanRicl/crud-react-context
 
 Deploy da aplicação com a utilização do ContextApi e Reducer:  
 https://reactcontextapicrud.netlify.app/
